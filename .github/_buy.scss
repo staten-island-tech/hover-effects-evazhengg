@@ -1,0 +1,16 @@
+@import "_variables.scss"; 
+
+.buy {
+  background-position: center;
+  font-size: 5rem;
+  transition: all 0.3s;
+text-transform: uppercase;
+text-align: center;
+text-decoration: purple;
+  
+}
+.buy:hover{
+  transform: skewY(-10deg);
+  letter-spacing: .5rem;
+  color:yellowgreen;
+    }
